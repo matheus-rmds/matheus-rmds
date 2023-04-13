@@ -9,7 +9,7 @@
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Z&layout=compact&hide_border=true&title_color=89cff0&text_color=ffffff&bg_color=0d1117" alt="Matheus Rocha Language Stats" />
 </div>
 
-### My Main Skills
+### Main Languages and Tools:
 
   <div style="display: inline_block"><br>
     
