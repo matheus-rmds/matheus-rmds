@@ -25,6 +25,6 @@
  <a href="https://www.linkedin.com/mwlite/in/matheus-rocha-martins-de-souza-5a5170240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  # 💫 About Me:
-I study at Unicarioca University | I’m currently learning Kotlin and SQL | How to contact me: matheusrmds2023@gmail.com
+I study at Unicarioca University | I’m currently learning C#, .NET and SQL | How to contact me: matheusrmds2023@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
