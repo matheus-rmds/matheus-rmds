@@ -2,7 +2,7 @@
 
 ### "Hello, world!" - Every single programmer ever.
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89cff0&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Matheus+R.M.+de+Souza;I'm+20+years+old;I'm+from+Brazil,+RJ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89cff0&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Matheus+R.M.+de+Souza;I'm+21+years+old;I'm+from+Brazil,+RJ)](https://git.io/typing-svg)
   
   
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Z&layout=compact&hide_border=true&title_color=89cff0&text_color=ffffff&bg_color=0d1117" alt="Matheus Rocha Language Stats" />
