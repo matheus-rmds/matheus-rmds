@@ -22,6 +22,6 @@
  <a href="https://www.linkedin.com/mwlite/in/matheus-rocha-martins-de-souza-5a5170240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  # 💫 About Me:
-I study at Unicarioca University | How to contact me: matheusrmds2023@gmail.com
+Bachelor's Degree in Computer Science | How to contact me: matheusrmds2023@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
