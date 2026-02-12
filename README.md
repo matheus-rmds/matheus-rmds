@@ -18,7 +18,6 @@
   
   <h1>🌐 Socials:</h1>
  
-<a href="https://instagram.com/szmathsz?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/mwlite/in/matheus-rocha-martins-de-souza-5a5170240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  # 💫 About Me:
